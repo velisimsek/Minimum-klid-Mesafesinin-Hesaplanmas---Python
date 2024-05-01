@@ -1,0 +1,1 @@
+# Minimum-klid-Mesafesinin-Hesaplanmas---Python
